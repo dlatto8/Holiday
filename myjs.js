@@ -1,8 +1,8 @@
 var imageArray = [
-    "http://www.golden-forum.com/resources/image/17927", "https://whyevolutionistrue.files.wordpress.com/2013/12/picture-13.png",
-    "http://www.nbc.com/the-tonight-show/content/sites/nbcutsjf/files/styles/bit_stacked_resized/public/images/2014/09/09/liam-neeson_0.jpg?itok=rAV-TLqp",
-"http://www.telegraph.co.uk/content/dam/news/2016/07/13/103161577_restricted-fox-news-large_trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA.jpg",
-"http://girltalkhq.com/wp-content/uploads/2015/07/latest-e1436570235774.jpg"
+    "https://www.golden-forum.com/resources/image/17927", "https://whyevolutionistrue.files.wordpress.com/2013/12/picture-13.png",
+    "https://www.nbc.com/the-tonight-show/content/sites/nbcutsjf/files/styles/bit_stacked_resized/public/images/2014/09/09/liam-neeson_0.jpg?itok=rAV-TLqp",
+"https://www.telegraph.co.uk/content/dam/news/2016/07/13/103161577_restricted-fox-news-large_trans++eo_i_u9APj8RuoebjoAHt0k9u7HhRJvuo-ZLenGRumA.jpg",
+"https://girltalkhq.com/wp-content/uploads/2015/07/latest-e1436570235774.jpg"
     
     
     
